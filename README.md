@@ -183,8 +183,6 @@ VectorDB-Java/
 
 ## Credits and license
 
-This project is a Java reimplementation of an open-source educational C++ vector database (MIT licensed). The architecture, REST API design and web UI come from that project. The Java backend was re-written for this repository, with the additions listed in *Engineering notes*.
-
 Built by **Ankur Shrivastava** ([@Ankurshrivastavaa](https://github.com/Ankurshrivastavaa)).
 
 Released under the **MIT License**.
